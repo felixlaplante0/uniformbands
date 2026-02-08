@@ -1,7 +1,7 @@
 Uniform Bands
 =============
 
-**uniform_bands** is a simple Python package providing a function that computes uniform confidence bands from initial high probability lower and upper bounds using either the **uniform** or **student** method with theoretical covering guarantees.
+**uniformbands** is a simple Python package providing a function that computes uniform confidence bands from initial high probability lower and upper bounds using either the **uniform** or **student** method with theoretical covering guarantees.
 
 Features
 --------
