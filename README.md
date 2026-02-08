@@ -22,4 +22,4 @@ pip install uniformbands
 ## 📖 Learn More
 
 For tutorials, API reference, visit the official site:  
-👉 [uniformbands Documentation](https://felixlaplante0.github.io/uniformbands)
+👉 [uniformbands' documentation](https://felixlaplante0.github.io/uniformbands)
